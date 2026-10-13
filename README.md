@@ -1,15 +1,62 @@
+# Building Intelligent Systems, One Experiment at a Time
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Rickymorty7x&theme=date_night&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Rickymorty7x&theme=date_night&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rickymorty7x&theme=date_night&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+> Applied AI · Autonomous Agents · Software Engineering · Learning Systems
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I'm a computer science student interested in how software can **understand information, make decisions, use tools, and improve through feedback**. My focus is on turning those ideas into practical, testable systems—not just demos.
 
----
-[![](https://komarev.com/ghpvc/?username=Rickymorty7x&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🔭 What I'm Focused On
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- **Autonomous AI systems:** planning, tool use, memory, orchestration, evaluation, and recovery.
+- **Personalized learning:** adapting explanations and learning materials to the person, not forcing everyone into the same format.
+- **Applied AI engineering:** LLMs, embeddings, retrieval-augmented generation (RAG), and document understanding.
+- **Software foundations:** data structures, algorithms, APIs, testing, and reliable deployment.
+- **Product building:** moving from a small prototype to a useful, maintainable application.
+
+## 🧪 Projects & Experiments
+
+| Project | What it explores | Stage |
+| --- | --- | --- |
+| **Synesis** | Personalized AI learning: adapting content, sequencing, explanations, and eventually full learning materials to an individual learner. RAG supports access to knowledge; **comprehension is the real goal**. | In development |
+| **RISA Mini** | Recursive software improvement using model-generated changes, Git-based history, automated tests, and rollback to a stable version when a run fails. | Working prototype |
+| **Gamish777** | A web-game/PWA experiment involving interactive gameplay, responsive interfaces, app-state flows, and deployment. | Built and iterating |
+| **Dolphin Systems** | An umbrella for experiments in AI-powered products, agentic workflows, and practical automation. | Active research & development |
+| **Document RAG Lab** | PDF ingestion, chunking, embeddings, vector search, source-grounded answers, and reranking. | Exploring / prototyping |
+| **Raspberry Pi & Local AI** | Networked printing, small-device services, local language models, and lightweight infrastructure. | Hands-on experiments |
+
+## 🛠️ Technologies
+
+**Programming foundations**  
+`Python` · `Java` · `C++` · Data Structures & Algorithms · Object-Oriented Programming
+
+**Tools & development**  
+`Git` · `GitHub` · `Vercel` · Web Applications · REST APIs · Linux / CLI
+
+**AI / ML tools I'm learning or experimenting with**  
+`PyTorch` · `scikit-learn` · `Sentence-Transformers` · `LangChain` · `FAISS` · `Ollama` · Vector Databases
+
+**Systems topics I'm studying**  
+`Docker` · `Redis` · Queues & Streaming · Distributed Systems · Model Serving · Observability · MLOps
+
+> I separate tools I've used in projects from technologies I'm still learning. This README is a snapshot of work in progress, not a claim of expertise in every item.
+
+## 🧭 Current Learning Path
+
+1. **Strengthen the fundamentals:** Python, Java, algorithms, linear algebra, and software design.
+2. **Build dependable AI applications:** APIs, document pipelines, embeddings, RAG, and evaluation.
+3. **Engineer useful agents:** tool calling, memory/state, planning, human approval, and failure recovery.
+4. **Think in systems:** asynchronous jobs, caching, observability, scalable services, and efficient inference.
+5. **Ship and measure:** test real use cases, identify failure modes, and improve based on evidence.
+
+## 💡 How I Think About Building
+
+- **Understanding matters more than simply retrieving information.**
+- Start with a small working version, then improve it through experiments.
+- Prefer explainable behavior, tests, and recovery over impressive but fragile automation.
+- Learn the underlying concepts instead of depending entirely on generated code.
+- Treat cost, latency, reliability, and usability as engineering requirements.
+
+## 🤝 Interests & Collaboration
+
+I'm interested in collaborating on **open-source AI tooling, trustworthy agents, RAG and document intelligence, developer automation, and personalized education software**.
+
+_Always learning. Usually building. Trying to make each iteration more useful than the last._
